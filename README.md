@@ -34,6 +34,12 @@
 
 ![image](https://github.com/NimaDosOFF/StarWarsStyledResume/assets/133951460/93b3de81-78c9-49f0-87bc-e2260a314bc3)
 
-![image](https://github.com/NimaDosOFF/StarWarsStyledResume/assets/133951460/59878558-6263-4f1f-9f89-91dfe4e3cf1a)
+## Отдельно у нас присутствует элемент с классом `fade`. Он отвечает за то, чтобы текст постепенно растворялся сверху страницы
+
+![image](https://github.com/NimaDosOFF/StarWarsStyledResume/assets/133951460/b2634123-9b63-4881-b565-4ac79b76eebd)
+
+## Теперь можно приступить к созданию анимации текста
+
+
 
 
