@@ -26,5 +26,14 @@
 
 ## Теперь приступим к работе над основной визуальной составляющей нашей работы в файле `style.css`
 
+- Разместим объекты на странице, применив `display: flex`
+
+![image](https://github.com/NimaDosOFF/StarWarsStyledResume/assets/133951460/785993f3-49dc-4df0-a8a8-3487ad118bc4)
+
+- К основным классам применим свойства чтобы отредактировать положение элементов, цвет, шрифт текста и т.д.
+
+![image](https://github.com/NimaDosOFF/StarWarsStyledResume/assets/133951460/93b3de81-78c9-49f0-87bc-e2260a314bc3)
+
+![image](https://github.com/NimaDosOFF/StarWarsStyledResume/assets/133951460/59878558-6263-4f1f-9f89-91dfe4e3cf1a)
 
 
