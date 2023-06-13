@@ -51,7 +51,7 @@
 
 ## Посетить сайт
   
-[https://nimadosoff.github.io/FlippingCard-NeonButton/](https://nimadosoff.github.io/StarWarsStyledResume/)
+  https://nimadosoff.github.io/StarWarsStyledResume/
 
 ## Контакты
 - VK : [Дмитрий Носов](https://vk.com/nimadosov)
